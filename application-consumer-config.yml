@@ -3,7 +3,7 @@ suffix: I LOVE China
 
 # 配置dev环境
 server:
-  port: 7070
+  port: 9070
 
 spring:
   profiles: dev
