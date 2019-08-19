@@ -1,5 +1,5 @@
 # 新增配置
-suffix: I LOVE China
+suffix : suffix LOVE
 
 # 配置dev环境
 server:
