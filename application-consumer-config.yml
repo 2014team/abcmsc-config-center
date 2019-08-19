@@ -1,5 +1,5 @@
 # 新增配置
-suffix : comsumer
+suffix : 没有查询客户端数据显示comsumer
 
 # 配置dev环境
 server:
