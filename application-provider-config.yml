@@ -1,5 +1,5 @@
 # 新增属性
-flag: flag china
+flag: provider
 
 # 配置dev环境
 server:
